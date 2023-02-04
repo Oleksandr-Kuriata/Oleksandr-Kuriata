@@ -15,6 +15,9 @@
     <a href="https://t.me/oleksandr_kuriata" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="26" height="26" alt="telegram group" />
     </a>
+    <a href="https://viber.click/+380686124656" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Viber_logo_2018_%28without_text%29.svg" width="26" height="26" alt="viber" />
+    </a>
     <a href="mailto:oleksandrkuriata@gmail.com">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="26" height="26" alt="gmail" />
     </a>
