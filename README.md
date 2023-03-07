@@ -2,9 +2,9 @@
 
 ### 😄 About me
 
-✌️ My name is Oleksandr. I'm a Junior JavaScript Developer, HTML Coder.
+✌️ My name is Oleksandr. I'm a Junior Front-End Developer.
 
-🎓I have experience in layout, adaptive layout, Mobile First, HTML, CSS, SASS/SCSS, Bootstrap 5, BEM methodology, Flexbox, CSS Grid, jQuery, Gulp, Webpack, NPM, Git/GitHub, Figma, Photoshop. I have JavaScript programming skills.
+🎓I have experience in layout, adaptive layout, Mobile First, HTML5, CSS3, SASS/SCSS, Bootstrap 5, BEM methodology, Flexbox, CSS Grid, jQuery, Gulp, Webpack, npm, Git/GitHub, Figma, Photoshop. I have JavaScript programming skills.
 
 ### 🤝 Connect with me:
 
@@ -14,9 +14,6 @@
     </a>
     <a href="https://t.me/oleksandr_kuriata" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="26" height="26" alt="telegram group" />
-    </a>
-    <a href="https://viber.click/+380686124656" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Viber_logo_2018_%28without_text%29.svg" width="26" height="26" alt="viber" />
     </a>
     <a href="mailto:oleksandrkuriata@gmail.com">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="26" height="26" alt="gmail" />
@@ -39,5 +36,4 @@
 
 ### 📈 GitHub Stats
 
-![Oleksandr-Kuriata GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oleksandr-Kuriata&count_private=true&hide=contribs&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oleksandr-Kuriata&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
