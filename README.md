@@ -1,4 +1,4 @@
-# 🙋‍♂️ Welcome ![](https://komarev.com/ghpvc/?username=Oleksandr-Kuriata)
+# 🙋‍♂️ Welcome
 
 ### 😄 About me
 
